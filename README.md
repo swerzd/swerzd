@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @swerzd
-- 👀 I’m interested in AI/ML...
-- 🌱 I’m currently learning python Programming and ML
-- 💞️ I’m looking to collaborate on Conversational AI projects 
+- 👋 Hi, I’m Lawrence 
+- 👀 I’m a Conversational AI Consultant
+- 🌱 I have a expert understanding of the business and product side of AI/ML now looking to become an expert on the technical side
 - 📫 How to reach me: message!
 
 <!---
