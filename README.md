@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lawrence 
-- 👀 I’m a Conversational AI Consultant
-- 🌱 I have a expert understanding of the business and product side of AI/ML now looking to become an expert on the technical side
+- 👀 I’m a Cognitive Experience Analyst specilasing in practical application of conversational AI & RPA
+- 🌱 I have a very good understanding of the business and product side of AI/ML now looking to become an expert on the technical side
 - 📫 How to reach me: message!
 
 <!---
